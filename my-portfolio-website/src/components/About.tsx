@@ -29,17 +29,20 @@ export default function About() {
           />
         </motion.div>
         <p className="lg:flex-1 text-left text-[15px] md:text-[20px] leading-[1.7] max-w-[800px] text-[#0a0a0a] font-sans p-16 rounded-[20px]">
-          Joshua's portfolio is a testament to his expertise and dedication.
-          Here, you'll find projects that not only showcase his technical
-          prowess but also his ability to transform ideas into visually stunning
-          and highly functional web applications. Whether it's building dynamic
-          single-page applications, creating seamless user interfaces, or
-          ensuring every component is pixel-perfect, Joshua brings a touch of
-          brilliance to every project. Explore Joshua's work and discover the
-          blend of creativity and professionalism that sets him apart. Let his
-          portfolio take you on a journey through the realm of frontend
-          development, where your vision becomes a reality. Join forces with
-          Joshua, and together, let's create something truly exceptional.
+          <p>
+            Joshua&apos;s portfolio is a testament to his expertise and
+            dedication. Here, you&apos;ll find projects that not only showcase
+            his technical prowess but also his ability to transform ideas into
+            visually stunning and highly functional web applications. Whether
+            it&apos;s building dynamic single-page applications, creating
+            seamless user interfaces, or ensuring every component is
+            pixel-perfect, Joshua brings a touch of brilliance to every project.
+            Explore Joshua&apos;s work and discover the blend of creativity and
+            professionalism that sets him apart. Let his portfolio take you on a
+            journey through the realm of frontend development, where your vision
+            becomes a reality. Join forces with Joshua, and together, let&apos;s
+            create something truly exceptional.
+          </p>
         </p>
       </div>
     </main>

@@ -23,7 +23,7 @@ export default function Hero() {
         </BoxReveal>
         <BoxReveal boxColor={"#d933f8"} duration={0.3}>
           <p className="text-[3.5rem] text-center font-semibold text-[#fafafa]">
-            <span className="text-[#d933f8]">Joshua's</span> Portfolio
+            <span className="text-[#d933f8]">Joshua&apos;s</span> Portfolio
             <span className="text-[#d933f8]">.</span>
           </p>
         </BoxReveal>
