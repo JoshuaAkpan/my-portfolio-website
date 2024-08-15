@@ -1,0 +1,49 @@
+/* ZoomParallax.css */
+
+.imageContainer {
+    position: relative;
+    width: 25vw;
+    height: 25vh;
+  }
+
+.nth-2 {
+  top: -30vh;
+  left: 5vw;
+  width: 35vw;
+  height: 30vh;
+}
+
+.nth-3 {
+  top: -10vh;
+  left: -25vw;
+  width: 20vw;
+  height: 45vh;
+}
+
+.nth-4 {
+  top: 0;
+  left: 27.5vw;
+  width: 25vw;
+  height: 25vh;
+}
+
+.nth-5 {
+  top: 27.5vh;
+  left: 5vw;
+  width: 20vw;
+  height: 25vh;
+}
+
+.nth-6 {
+  top: 27.5vh;
+  left: -22.5vw;
+  width: 30vw;
+  height: 25vh;
+}
+
+.nth-7 {
+  top: 22.5vh;
+  left: 25vw;
+  width: 15vw;
+  height: 15vh;
+}
